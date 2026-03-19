@@ -3,11 +3,11 @@ This project implements a real-time ultrasonic distance measuring system using t
 
 Hardware Components:
 
-8051 Microcontroller (Development Board)
-HC-SR04 Ultrasonic Sensor
-16x2 LCD Display
-Arduino Uno (Power Supply)
-Breadboard & Connecting Wires
+8051 Microcontroller (Development Board),
+HC-SR04 Ultrasonic Sensor,
+16x2 LCD Display,
+Arduino Uno (Power Supply),
+Breadboard & Connecting Wires,
 Robotic Chassis (for mounting)
 
 Working Principle:
@@ -24,6 +24,6 @@ The system uses the time-of-flight principle:
 
 References:
 
-8051 Microcontroller – Mazidi
-HC-SR04 Datasheet
+8051 Microcontroller – Mazidi,
+HC-SR04 Datasheet,
 Embedded Systems Assembly Programming
